@@ -23,7 +23,11 @@
 
 ###
 
-<p align="left">I'm <b><mark>Md Kamruzzaman</mark></b><br><br>- 🔭 I’m working a full Stack Developer<br>- 📚 I'm currently learning AWS and node.js with typeScript<br>- 📫 How to reach me <b>kamruzzamanmd@hotmail.com</b><br>-⚡ Fun fact I am loving to travel.</p>
+<p align="left">I'm <b><mark>Md Kamruzzaman</mark></b><br>
+  <br>- 🔭 I’m currently working on Learning meagement project - Blood donation system with `React`, `SCSS`, `Node`, `MongoDB`
+  <br>- 📚 I'm currently learning AWS and node.js with typeScript
+  <br>- 📫 How to reach me <b>kamruzzamanmd@hotmail.com</b>
+  <br>-⚡ Fun fact I am loving to travel.</p>
 
 ###
 
