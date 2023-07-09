@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm <b><mark>Md Kamruzzaman</mark></h1>
+<h1 align="center">Hey there 👋 I'm <b><mark>Md Kamruzzaman</mark></h1>
 ## I'm a Full Stack Developer !!
 ###
 
