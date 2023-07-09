@@ -15,15 +15,14 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
+<h1 align="center">hey there 👋 I'm <b><mark>Md Kamruzzaman</mark></h1>
+## I'm a Full Stack Developer !!
 ###
 
+  
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm <b><mark>Md Kamruzzaman</mark></b><br>
+<p align="left"></b>
   <br>- 🔭 I’m currently working on Learning meagement system with `React`, `SCSS`, `Node`, `MongoDB`
   <br>- 📚 I'm currently learning AWS and node.js with typeScript
   <br>- 📫 How to reach me <b>kamruzzamanmd@hotmail.com</b>
