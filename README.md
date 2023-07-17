@@ -19,7 +19,8 @@
 ## I'm a Full Stack Developer !!
 ###
 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YeBenLing-ZAMAN&label=Profile%20views&color=0e75b6&style=flat" alt="YeBenLing-ZAMAN" /> </p>
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left"></b>
