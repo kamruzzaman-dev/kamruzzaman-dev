@@ -24,9 +24,9 @@
 
 <p align="left"></b>
   <br>- 🔭 I’m currently working on Learning meagement system with `React`, `SCSS`, `Node`, `MongoDB`
-  <br>- 📚 I'm currently learning AWS and node.js with typeScript
+  <br>- 📚 I'm currently learning Next.js, AWS and node.js with typeScript
   <br>- 📫 How to reach me <b>kamruzzamanmd@hotmail.com</b>
-  <br>- ⚡ Fun fact I am loving to travel.</p>
+  <br>- ⚡ Fun fact I am love to travel.</p>
 
 ###
 
