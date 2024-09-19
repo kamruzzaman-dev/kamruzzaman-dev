@@ -23,11 +23,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left"></b>
-  <br>- 🔭 I’m frontend developer at <b>Nazx.</b>
+  <br>- 🔭 I’m frontend developer at <b>Metarouge Innovations</b>
   <br>- 🔭 I’m currently contribute on a open source travel mangement system (For Bus) with <b>Next.js</b>, <b>Ant design</b>, <b>Express</b>, <b>MongoDB</b>.
   <br>- 📚 I'm currently learning AWS and node.js with typeScript
   <br>- 📫 How to reach me <b>kamruzzamanmd@hotmail.com</b>
-  <br>- ⚡ Fun fact I am love to travel.</p>
 
 ###
 
