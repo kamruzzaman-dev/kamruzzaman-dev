@@ -16,7 +16,7 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm <b><mark>Md Kamruzzaman</mark></h1>
-## I'm a Full Stack Developer !!
+## I'm a software developer !!
 ###
 
 
