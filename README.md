@@ -22,7 +22,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"> <br>- 🔭 I’m a software developer at  <a href="https://www.metarouge.com.au/"><b>Metarouge Innovations</b></a>. <br>- 🔭 I’m currently contributing to the <a href="https://app.neutopia.co/">Neutopia app</a> using <b>React.js</b> and <b>MUI</b>. <br>- 📚 I'm currently learning DevOps, AWS and Node.js with TypeScript. <br>- 📫 How to reach me: <b>kamruzzamanmd@hotmail.com</b> </p>
+<p align="left"> <br>- 🔭 I’m a software developer at  <a href="https://www.metarouge.com.au/"><b>Metarouge Innovations</b></a>. <br>- 🔭 I’m currently contributing to the <a href="https://app.neutopia.co/">Neutopia app</a> using <b>React.js</b> and <b>MUI</b>. <br>- 📚 I'm currently learning DevOps, AWS and Django <br>- 📫 How to reach me: <b>kamruzzamanmd@hotmail.com</b> </p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
